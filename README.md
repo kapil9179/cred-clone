@@ -6,18 +6,26 @@
 This project is a responsive website built using HTML5 and CSS3. The goal of this project was to create a website that adjusts to different screen sizes, providing an optimal viewing experience across a wide range of devices.
 
 ##Technologies Used
+
+<br>
 -HTML5: Used for creating the structure of the web pages.
 -CSS3: Used for styling the web pages and making them responsive.
 
 ##Features
+
+<br>
 Responsive Design: The website layout adjusts according to the screen size and orientation.
 Cross-Browser Compatibility: The website works well with all modern browsers.
 <br>
 ##What I Learned
+
+<br>
 Through this project, I gained a deeper understanding of HTML5 and CSS3, and how they work together
 to create a responsive design. I learned how to use various CSS techniques such as**media queries** and **flexbox**,**grid**, to achieve a responsive layout.
 <br>
+
 ##Challenges Faced
+<br>
 During the development of this project, I faced a few challenges:
 
 **Understanding Responsive Design**: Initially, I had difficulty understanding the concept of responsive design and how to implement it using CSS3. To overcome this, I referred to various online resources and tutorials which helped me understand the concepts better. I also practiced by creating small projects which helped me gain hands-on experience.
